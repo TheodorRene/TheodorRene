@@ -8,7 +8,7 @@
 #### Projects
 - 📃 [Homepage](https://theodorc.no/)
 - ♜ [TwitterBot](https://twitter.com/chessdaily)
-- 🏫 [Poenggrenser](https://poenggrenser.xyz/)
+- 🏫 [Poenggrenser (one day project)](https://poenggrenser.xyz/)
 
 <!--
 **TheodorRene/TheodorRene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
