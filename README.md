@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🙆‍♂️ Summer intern at Capra Consulting
+- 🖥️ Tech
+  - Kotlin, Python, Bash, Linux
+- 🔗 [LinkedIn](https://www.linkedin.com/in/theodorcarlsen/)
+
+#### Projects
+- 📃 [Homepage](https://theodorc.no/)
+- ♜ [TwitterBot](https://twitter.com/chessdaily)
+- 🏫 [Poenggrenser](https://poenggrenser.xyz/)
+
 <!--
 **TheodorRene/TheodorRene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
