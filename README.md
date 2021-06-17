@@ -3,7 +3,7 @@
 - 🙆‍♂️ Former summer intern at Capra Consulting and Tripletex
 - 🖥️ Tech
   - Kotlin, Python, Haskell, React, Linux
-- FOSS evangelist
+- FOSS 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/theodorcarlsen/)
 
 #### Projects
