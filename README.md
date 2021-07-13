@@ -1,8 +1,9 @@
-### Hi there 👋
+### Heisann 👋
 
+- Intern Bekk Consulting
 - 🙆‍♂️ Former summer intern at Capra Consulting and Tripletex
 - 🖥️ Tech
-  - Kotlin, Python, Haskell, React, Linux
+  - Kotlin, Python, Haskell, React, Linux, F#
 - FOSS 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/theodorcarlsen/)
 
