@@ -1,5 +1,6 @@
 ### Heisann 👋
 
+- Working for Blank from september 2022
 - 🙆‍♂️ Former summer intern at Tripletex, Capra and Bekk 
 - 🖥️ Tech
   - Kotlin, Python, Haskell, React, Linux, F#
