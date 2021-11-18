@@ -1,5 +1,5 @@
 ### Heisann 👋
-
+- 5th year Computer Science at NTNU, Trondheim
 - Working for Blank from september 2022
 - 🙆‍♂️ Former summer intern at Tripletex, Capra and Bekk 
 - 🖥️ Tech
@@ -11,6 +11,7 @@
 - 📃 [Homepage](https://theodorc.no/)
 - ♜ [TwitterBot](https://twitter.com/chessdaily)
 - 💯 [Poenggrenser](https://poenggrenser.xyz) 
+- 🐍 [list_methods](https://pypi.org/project/list-methods/0.1.1/)
 
 <!--
 **TheodorRene/TheodorRene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
