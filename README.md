@@ -6,6 +6,7 @@
   - Kotlin, Python, Haskell, React, Linux, F#
 - FOSS 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/theodorcarlsen/)
+- 📙 [Blog](https://blog.theodorc.no)
 
 #### Projects
 - 📃 [Homepage](https://theodorc.no/)
