@@ -9,8 +9,7 @@
 - 📙 [Blog](https://blog.theodorc.no)
 
 #### Projects
-- 📃 [Homepage](https://theodorc.no/)
-- ♜ [TwitterBot](https://twitter.com/chessdaily)
+- ♜ [TwitterBot](https://twitter.com/chessdaily)(Currently down, see blogpost)
 - 💯 [Poenggrenser](https://poenggrenser.xyz) 
 - 🐍 [list_methods](https://pypi.org/project/list-methods/0.1.1/)
 
