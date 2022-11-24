@@ -1,9 +1,9 @@
 ### Heisann 👋
-- 5th year Computer Science at NTNU, Trondheim
-- Working for Blank from september 2022
+- Computer Science MSc from NTNU, Trondheim
+- Working for [Blank](https://www.blank.no/), on a project with [Folq](https://www.folq.no/)
 - 🙆‍♂️ Former summer intern at Tripletex, Capra and Bekk 
 - 🖥️ Tech
-  - Kotlin, Python, Haskell, React, Linux, F#
+  - Kotlin, Python, Haskell, React, Linux, F#, Typescript
 - FOSS 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/theodorcarlsen/)
 - 📙 [Blog](https://blog.theodorc.no)
