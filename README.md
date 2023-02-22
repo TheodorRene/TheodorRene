@@ -1,5 +1,6 @@
 ### Heisann 👋
 - Non-functional programmer
+- Likes programming languages
 - Computer Science MSc from NTNU, Trondheim
 - Working for [Blank](https://www.blank.no/), on a project with [Folq](https://www.folq.no/)
 - 🙆‍♂️ Former summer intern at Tripletex, Capra and Bekk 
@@ -11,8 +12,7 @@
 
 #### Projects
 - ♜ [TwitterBot](https://twitter.com/chessdaily)(Currently down, see blogpost)
-- 💯 [Poenggrenser](https://poenggrenser.xyz) 
-- 🐍 [list_methods](https://pypi.org/project/list-methods/0.1.1/)
+- 🐍 [list_methods](https://pypi.org/project/list-methods/0.1.3/)
 
 <!--
 **TheodorRene/TheodorRene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
