@@ -2,7 +2,7 @@
 - Non-functional programmer
 - Likes programming languages
 - Computer Science MSc from NTNU, Trondheim
-- Working for [Blank](https://www.blank.no/), on a project with [Folq](https://www.folq.no/)
+- Working for [Blank](https://www.blank.no/)
 - 🙆‍♂️ Former summer intern at Tripletex, Capra and Bekk 
 - 🖥️ Tech
   - Typescript, Kotlin, Python, Haskell, React, Linux, F#, 
