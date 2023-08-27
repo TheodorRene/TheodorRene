@@ -1,16 +1,19 @@
-### Heisann 👋 
+## Heisann 👋 
 - Likes programming languages
 - Computer Science MSc from NTNU, Trondheim
 - Working for [Blank](https://www.blank.no/)
 - 🙆‍♂️ Former summer intern at Tripletex, Capra and Bekk 
 - 🖥️ Tech
-  - Typescript, Kotlin, Python, Haskell, React, Linux, F#, 
+  - Typescript, Git,  Python, Haskell, React, Linux, F#, Node
 - FOSS 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/theodorcarlsen/)
 - 📙 [Blog](https://blog.theodorc.no)
 - 🐘 [Mastodon](https://snabelen.no/@theodorc)
 - 🧑 Talk to me about functional programming, Git, open source and any other subject that you want to teach me.
 
+## Blogposts:
+- 📃 [HTML -> PDF](https://blog.theodorc.no/posts/html2pdf/)
+- 🦀 [Slackbot using Rust](https://blogg.blank.no/hvor-vanskelig-kan-det-v%C3%A6re-slackbot-i-rust-bf9ba845dc88)
 <!--
 **TheodorRene/TheodorRene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
