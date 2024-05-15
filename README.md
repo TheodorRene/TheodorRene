@@ -1,7 +1,7 @@
 ## Heisann 👋 
 - Likes programming languages
 - Computer Science MSc from NTNU, Trondheim
-- Working for [DR](https://www.dr.dk/)
+- Working for [DR](https://www.dr.dk/) [github@dr-thca](https://github.com/dr-thca)
 - 🖥️ Tech
   - Typescript, Git,  Python, Haskell, React, Linux, F#, Node
 - FOSS 
